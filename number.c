@@ -1,4 +1,4 @@
-nclude "main.h"
+#include "main.h"
 /**
  * convert - converter function, a clone of itoa
  * @num: number
